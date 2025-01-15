@@ -2,6 +2,7 @@
 using MambaMVC.ViewModels.Account;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace MambaMVC.Controllers
 {
@@ -30,36 +31,10 @@ namespace MambaMVC.Controllers
                 return View();
             }
 
-            string formattedName = userVM.Name.CheckName();
-
-            if (formattedName == null)
-            {
-                ModelState.AddModelError(nameof(userVM.Name),
-                "Name is not correct");
-
-
-            }
-
-            string formattedSurname = userVM.Surname.CheckName();
-            if (formattedSurname == null)
-            {
-                ModelState.AddModelError(nameof(userVM.Surname),
-                "Surname is not correct");
-
-
-            }
-
-            if (!userVM.Email.CheckEmail())
-            {
-                ModelState.AddModelError(nameof(userVM.Email), "Email is not correct");
-                return View();
-            }
-
-
             AppUser user = new AppUser
             {
-                Name = formattedName,
-                Surname = formattedSurname,
+                Name = userVM.Name,
+                Surname = userVM.Surname,
                 Email = userVM.Email,
                 UserName = userVM.Name
 

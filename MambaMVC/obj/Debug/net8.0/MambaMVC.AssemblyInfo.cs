@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MambaMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b125b89949fda69b960557735224acecae05a31")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc2b2a909f9bb7d4f1657a76f5639b894dd0b239")]
 [assembly: System.Reflection.AssemblyProductAttribute("MambaMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MambaMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

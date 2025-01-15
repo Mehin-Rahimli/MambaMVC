@@ -20,7 +20,6 @@
 
   <ItemGroup>
     <Folder Include="Areas\admin\Data\" />
-    <Folder Include="Areas\admin\Views\Product\" />
     <Folder Include="Configurations\" />
     <Folder Include="wwwroot\admin\" />
   </ItemGroup>
