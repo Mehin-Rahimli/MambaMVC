@@ -1,0 +1,36 @@
+﻿@using MambaMVC.ViewModels.Account
+@model LoginVM
+
+<div class="col-md-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Login</h4>
+
+            <form class="forms-sample" method="post">
+                <div class="text-danger" asp-validation-summary="ModelOnly">     </div>
+
+
+
+                <div class="form-group">
+                    <label asp-for="UserNameOrEmail">UserName Or Email</label>
+                    <input asp-for="UserNameOrEmail" type="text" placeholder="UserNameOrEmail">
+                    <span class="text-danger" asp-validation-for="UserNameOrEmail"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Password">Password</label>
+                    <input asp-for="Password" type="text" placeholder="Password">
+                    <span class="text-danger" asp-validation-for="Password"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="IsPersistent">Remember me</label>
+                    <input asp-for="IsPersistent" />
+
+                </div>
+
+                <button type="submit" class="btn btn-primary me-2">Login</button>
+                <button class="btn btn-light">Cancel</button>
+
+            </form>
+        </div>
+    </div>
+</div>

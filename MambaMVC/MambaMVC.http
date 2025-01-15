@@ -1,0 +1,6 @@
+@MambaMVC_HostAddress = http://localhost:5118
+
+GET {{MambaMVC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

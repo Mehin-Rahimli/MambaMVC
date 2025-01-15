@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\api\\mambamvc\\mambamvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|solutionrelative:mambamvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "MambaMVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "MambaMVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-15T08:36:55.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

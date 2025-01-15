@@ -1,0 +1,466 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\api\\mambamvc\\mambamvc\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|solutionrelative:mambamvc\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\api\\mambamvc\\mambamvc\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|solutionrelative:mambamvc\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\api\\mambamvc\\mambamvc\\areas\\admin\\viewmodels\\category\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|solutionrelative:mambamvc\\areas\\admin\\viewmodels\\category\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\api\\mambamvc\\mambamvc\\areas\\admin\\viewmodels\\category\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|solutionrelative:mambamvc\\areas\\admin\\viewmodels\\category\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\api\\mambamvc\\mambamvc\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|solutionrelative:mambamvc\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\api\\mambamvc\\mambamvc\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|solutionrelative:mambamvc\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\api\\mambamvc\\mambamvc\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|solutionrelative:mambamvc\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\api\\mambamvc\\mambamvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|solutionrelative:mambamvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\api\\mambamvc\\mambamvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|solutionrelative:mambamvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\api\\mambamvc\\mambamvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|solutionrelative:mambamvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\api\\mambamvc\\mambamvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|solutionrelative:mambamvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\api\\mambamvc\\mambamvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|solutionrelative:mambamvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\api\\mambamvc\\mambamvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|solutionrelative:mambamvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\api\\mambamvc\\mambamvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|solutionrelative:mambamvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\api\\mambamvc\\mambamvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|solutionrelative:mambamvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\api\\mambamvc\\mambamvc\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|solutionrelative:mambamvc\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\api\\mambamvc\\mambamvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|solutionrelative:mambamvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\api\\mambamvc\\mambamvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|solutionrelative:mambamvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\api\\mambamvc\\mambamvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|solutionrelative:mambamvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\api\\mambamvc\\mambamvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|solutionrelative:mambamvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\api\\mambamvc\\mambamvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|solutionrelative:mambamvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\api\\mambamvc\\mambamvc\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|solutionrelative:mambamvc\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\api\\mambamvc\\mambamvc\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|solutionrelative:mambamvc\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\api\\mambamvc\\mambamvc\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|solutionrelative:mambamvc\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\api\\mambamvc\\mambamvc\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|solutionrelative:mambamvc\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\api\\mambamvc\\mambamvc\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A81D09-FE6E-422E-8CE4-FFC7FDC6A8AE}|MambaMVC\\MambaMVC.csproj|solutionrelative:mambamvc\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Areas\\admin\\ViewModels\\Category\\GetCategoryVM.cs",
+              "RelativeDocumentMoniker": "MambaMVC\\Areas\\admin\\ViewModels\\Category\\GetCategoryVM.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Areas\\admin\\ViewModels\\Category\\GetCategoryVM.cs",
+              "RelativeToolTip": "MambaMVC\\Areas\\admin\\ViewModels\\Category\\GetCategoryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:29:51.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Areas\\admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "MambaMVC\\Areas\\admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Areas\\admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "MambaMVC\\Areas\\admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T09:26:59.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Areas\\admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "MambaMVC\\Areas\\admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Areas\\admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "MambaMVC\\Areas\\admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T09:26:47.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Areas\\admin\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "RelativeDocumentMoniker": "MambaMVC\\Areas\\admin\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Areas\\admin\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "RelativeToolTip": "MambaMVC\\Areas\\admin\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:28:24.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Areas\\admin\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "MambaMVC\\Areas\\admin\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Areas\\admin\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "MambaMVC\\Areas\\admin\\Views\\Category\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T09:27:12.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Areas\\admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MambaMVC\\Areas\\admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Areas\\admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MambaMVC\\Areas\\admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAswJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:24:27.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Areas\\admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MambaMVC\\Areas\\admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Areas\\admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MambaMVC\\Areas\\admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowIkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:24:10.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MambaMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MambaMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwEsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T08:56:39.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MambaMVC\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Models\\Product.cs",
+              "RelativeToolTip": "MambaMVC\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T08:50:01.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MambaMVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MambaMVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAswIIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T08:59:35.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MambaMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MambaMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T08:59:21.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MambaMVC\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Models\\Category.cs",
+              "RelativeToolTip": "MambaMVC\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T08:49:51.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MambaMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MambaMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAkwBYBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T09:05:52.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MambaMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MambaMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T09:06:25.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MambaMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MambaMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T09:06:07.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MambaMVC\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "MambaMVC\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T08:48:37.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "MambaMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\appsettings.json",
+              "RelativeToolTip": "MambaMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T08:38:57.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MambaMVC\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "MambaMVC\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T08:57:10.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Program.cs",
+              "RelativeDocumentMoniker": "MambaMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Program.cs",
+              "RelativeToolTip": "MambaMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T08:39:39.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "MambaMVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "MambaMVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-15T08:36:55.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MambaMVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MambaMVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T08:56:58.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "MambaMVC\\ViewModels\\Account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeToolTip": "MambaMVC\\ViewModels\\Account\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T08:55:30.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "MambaMVC\\ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "MambaMVC\\ViewModels\\Account\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T08:55:18.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "MambaMVC\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "MambaMVC\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T08:54:22.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "MambaMVC\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Models\\AppUser.cs",
+              "RelativeToolTip": "MambaMVC\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T08:51:33.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "MambaMVC\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\API\\MambaMVC\\MambaMVC\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "MambaMVC\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T08:51:20.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
